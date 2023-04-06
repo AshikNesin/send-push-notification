@@ -1,6 +1,6 @@
 {
   "name": "send-push-notification",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A lightweight and easy-to-use Node.js package for sending notifications via the Pushover service",
   "main": "index.js",
   "type": "module",
